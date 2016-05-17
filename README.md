@@ -1,2 +1,3 @@
 # hello-world
-what in the world is a repository
+This makes a little more sense now.
+# How nice
